@@ -108,27 +108,27 @@ header {
 }
 
 .box-first {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/palmy@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/palmy@2x.png);
 }
 
 .box-second {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/jezero2@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/jezero2@2x.png);
 }
 
 .box-third {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/nakole@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/nakole@2x.png);
 }
 
 .box-fourth {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/lodicka@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/lodicka@2x.png);
 }
 
 .box-fifth {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/podkova@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/podkova@2x.png);
 }
 
 .box-sixth {
-  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(../images/zatoka@2x.png);
+  background-image: linear-gradient(rgba(255, 255, 255, 0) 60%, rgba(221, 221, 221, 0.3)), url(./../images/zatoka@2x.png);
 }
 
 .box-first,
